@@ -1,0 +1,38 @@
+<annotation>
+	<folder>potholes batçh 1</folder>
+	<filename>20220819_15_39_18_129_000_hnEYwZk1I5RsPJ0KVT40Wir0BSh1_F_4160_3120.jpg</filename>
+	<path>F:\datacluster_work\data\potholes batçh 1\20220819_15_39_18_129_000_hnEYwZk1I5RsPJ0KVT40Wir0BSh1_F_4160_3120.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1237</xmin>
+			<ymin>750</ymin>
+			<xmax>2703</xmax>
+			<ymax>1503</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>potholes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>3</ymin>
+			<xmax>1143</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
