@@ -1,0 +1,5 @@
+path : C:/Users/Charan Chakkara/Documents/GitHub/Road Crack Detection 2/
+train : dataset/train
+val : dataset/train
+names :
+    0 : Road_crack
