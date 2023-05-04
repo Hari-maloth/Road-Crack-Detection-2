@@ -1,5 +1,7 @@
 path : C:\Users\Charan Chakkara\Documents\GitHub\Road Crack Detection 2\
 train : dataset/train
 val : dataset/train
-names :
-    0 : Road_crack
+test : dataset/test
+
+nc: 7
+names: ['D01', 'D10', 'D11', 'D20', 'D40', 'D43', 'D44']

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['D01', 'D10', 'D11', 'D20', 'D40', 'D43', 'D44']
+
+roboflow:
+  workspace: iit-bhubaneswar-zqa5u
+  project: crack-detection-omhpf
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/iit-bhubaneswar-zqa5u/crack-detection-omhpf/dataset/1
