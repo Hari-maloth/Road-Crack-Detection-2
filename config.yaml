@@ -1,7 +1,14 @@
-path : C:\Users\Charan Chakkara\Documents\GitHub\Road Crack Detection 2\
+path : /content/data/
 train : dataset/train
 val : dataset/train
 test : dataset/test
 
 nc: 7
-names: ['D01', 'D10', 'D11', 'D20', 'D40', 'D43', 'D44']
+names:
+    0 : Linear crack, Longitudinal,Construction joint part
+    1 : Linear crack, Lateral,equal interval
+    2 : Linear crack, Lateral,Construction joint part
+    3 : Alligator crack
+    4 : Rutting,bump,pothole,seperation
+    5 : Cross walk blur
+    6 : White line blue
